@@ -1,2 +1,2 @@
-# livy-jupitor-spark-example
-livy-jupitor-spark-example on emr
+# livy-jupyter-spark-example
+livy-jupyter-spark-example on emr
